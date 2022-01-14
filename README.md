@@ -18,3 +18,6 @@ Programs:
               * Bin2JS / JS2Bin
           # Firmware 9.00 
               * Bin2HTML
+
+# Edit
+    * BIN
