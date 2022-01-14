@@ -1,5 +1,10 @@
-# Programy(App) PC Dla(For) PS4: (# Folder / * Pod Folder)
-Programs:
+Programy(App) PC Dla(For) PS4: (# Folder / * Pod Folder)
+# Informacje:
+Wszystkie Programy nie są mojego autorstwa .Wszelkie informacje na temat Programów poniżej
+
+
+
+
 # ApptoUSB by Leeful
 
 
