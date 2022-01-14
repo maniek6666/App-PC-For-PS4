@@ -1,6 +1,6 @@
-# App PC For PS4:
+# Programy(App) PC Dla(For) PS4: (# Folder / * Pod Folder)
 Programs:
-1) ApptoUSB by Leeful
+# ApptoUSB by Leeful
 
 
 # Fake PKG PS4
