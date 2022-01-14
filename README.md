@@ -29,3 +29,6 @@ Wszystkie Programy nie są mojego autorstwa .Wszelkie informacje na temat Progra
 
 # Edycja Plików (Edit Files)
     * BIN
+    
+# Andrino
+    *
