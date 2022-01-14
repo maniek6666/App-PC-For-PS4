@@ -28,7 +28,7 @@ Wszystkie Programy nie są mojego autorstwa .Wszelkie informacje na temat Progra
               * Bin2HTML
 
 # Edycja Plików (Edit Files)
-    * BIN
+    * SelfUtil
     
 # Andrino
     *
