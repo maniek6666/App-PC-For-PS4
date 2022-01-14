@@ -1,0 +1,67 @@
+Main Menu Features:
+---------------------
+When the menu loads, you can just press the X button to instantly run the latest version of HEN.
+
+Press the 'R1' button to see a description of the selected payload.
+(Special Payloads like Fan Control, Firmware Spoofer and ReactPSPlus-MOD display extra information when 
+you press 'R1' like 'Current Fan Control Temperature setting' 'Current Official and Spoofed Firmware versions' 
+and 'Current system clock and kernel clock times')
+
+AutoHen Feature:
+---------------------
+To toggle the AutoHen feature On or Off use the L2 button.
+If AutoHen is turned on, Hen will automatically load when you first open the menu. 
+Once Hen is loaded on your PS4 the regular PS-Phwoar! menu will open instead allowing you to access all the other payloads.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+Payload Features:
+-------------------
+Hen:
+When you first run Hen will take a 3 seconds longer to load than all the other payloads in the menu. 
+This is perfectly normal. When your PS4 first turned on it is not exploited so it takes a few extra seconds 
+because it is patching your kernel first before running HEN.
+
+Bin Loader:
+This version of Bin Loader can also load extra large bin payloads. Other versions of Bin Loader usually have a 
+bin file size limit of 3.14MB but this version can handle bin files up to 12.58MB in size. Perfect for loading 
+large bin files like the 10MB NO-USB Linux loader payload.
+
+Fan Control Payload:
+When the Fan Control payload has loaded you can move the slider using either D-Pad up & down or D-Pad left and right.
+Press X to set the desired temperature threshold.
+A special feature of this payload which makes it unique from the other FanControl payloads is that you can move the slider 
+and set the temperature over and over again without having to exit and re-enter the menu!
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+Changelog:
+-------------------
+v1.4
+-----
+Updated HEN to v2.1.4 by The Darkprogramer.
+Added an AutoHen option to automatically load Hen when the menu opens. Once Hen has been loaded, the regular menu will load next time.
+GTA V Lotus Mod Menu updated to v1.04.
+Fixed an issue where FTP would not work with SaveMounter+FTP.
+
+v1.3
+-----
+Updated HEN to v2.1.3 by SiSTR0.
+Updated PS4REN by SiSTR0 to v2.0.
+Added a couple more Game Dumper Options. (You do not need a cfg file on your USB anymore with these payloads!)
+
+v1.2
+-----
+Hen v2.1.2 by SiSTR0 added. 
+This has added Trophy debug patches which will allow new backported games to be installed and run without any problems.
+
+v1.1
+------
+PS-Phwoar! is now compatable with all of LightningMod's apps.
+WebRTE-V2 added as requested.
+Game Dumper Options added as requested - You can now choose to dump your game and update seperatly or into one merged 
+folder without having to use a cfg file on the USB.
+
+v1.0
+-----
+First release of PS-Phwoar!

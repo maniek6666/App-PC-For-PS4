@@ -1,0 +1,13 @@
+Self Host Options:
+---------------------
+If you want to load the menu in the PS4's Browser use the 'Server For PS4 Browser.bat' and follow the instructions it tells you.
+If you want to load the menu in the PS4's UserGuide use the 'Server For PS4 UserGuide.exe' and follow the instructions it tells you.
+
+Whichever server you use, once the PS-Phwoar! Host Menu has finished installing on your PS4 you can close the server 
+and the Host menu will then always load from your PS4's internal cache.
+
+Before you install or Update PS-Phwoar! on your PS4 it is advised to first clear your browser settings so that it does not interfere 
+with any previous Host menus you have used. 
+To do this open the Browser app and press the options button then select:
+Settings > Delete Cookies > Clear Website Data.
+
