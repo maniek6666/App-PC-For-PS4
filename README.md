@@ -12,7 +12,7 @@ Wszystkie Programy nie są mojego autorstwa .Wszelkie informacje na temat Progra
 1) Saturn-FPKG by JABU
 
 
-# Serwery
+# Serwery (Servers)
     # PS4 Packages Sender
            * PS4 Packages Sender v1.2 (by Modde Warfare)
            * PS4 Packages Sender v1.3 (by ??)
@@ -20,12 +20,12 @@ Wszystkie Programy nie są mojego autorstwa .Wszelkie informacje na temat Progra
     # Server For PS4 UserGuide (DNS) and Browser 
 
 
-# Conwertery
+# Konwertery (Converters)
     * Playload Converter 
           # Firmware 6.72 
               * Bin2JS / JS2Bin
           # Firmware 9.00 
               * Bin2HTML
 
-# Edycja
+# Edycja Plików (Edit Files)
     * BIN
